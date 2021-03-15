@@ -1,1 +1,13 @@
-body {background-color:greenyellow;}
+body {background-color:yellow;}
+
+img {padding: 10px;
+    border: 1px solid black
+}
+
+.highlight{
+    color: black;
+    background-color: indianred;
+    padding: 10px;
+    margin: 50px;
+    font-size: 14pt;
+}

@@ -22,3 +22,13 @@ margin:25px;}
 
 a:link {text-decoration: none; color:black;}
 a:hover {text-decoration: underline; color:red;}
+table {
+    width: 500px;
+}
+td {
+    text-align:left;
+}
+table, th, td {
+    border: 1px solid;
+
+}

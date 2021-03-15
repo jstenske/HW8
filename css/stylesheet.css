@@ -1,8 +1,13 @@
-body {background-color:yellow;}
+body {background-color:plum;}
 
 img {padding: 10px;
     border: 1px solid black
 }
+
+h1 {font-size: 24pt;
+font-style: italic;}
+h2 {font-size: 14pt;
+font-style: italic;}
 
 .highlight{
     color: black;
@@ -11,6 +16,9 @@ img {padding: 10px;
     margin: 50px;
     font-size: 14pt;
 }
+
+main {background-color: white;
+margin:25px;}
 
 a:link {text-decoration: none; color:black;}
 a:hover {text-decoration: underline; color:red;}
